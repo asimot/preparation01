@@ -1,6 +1,6 @@
 # preparation01
 First prep repository
 
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fspongebob-my-post-netflix-and-chill-UvOcKPHrkKSLm&psig=AOvVaw1n56vLkUuLQcmNNKTFiXJR&ust=1630670966358000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCopu-g4PICFQAAAAAdAAAAABAD)
+![Image](https://media1.giphy.com/media/UvOcKPHrkKSLm/giphy.gif?cid=790b761198f51c32c78b249083aadd3671589ac7321af8c0&rid=giphy.gif&ct=g)
 
 
