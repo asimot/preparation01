@@ -1,11 +1,4 @@
-Describe a class where you felt your final grade in a course did not match with what you learned throughout the semester (this could be where your grade was “too low” or “too high”).
-
-What do you think grades represent? What is your experience with grades?
-
-If grades were removed from courses, what would you use for motivation? What value would learning have for you without grades?
-
-Describe a time where you took the “easy way out” for an assignment. Why did you choose to go this route?
-
+Alfie Kohn's "The Case Against Grades" Reflection
 
 Alfie Kohn's "The Case Against Grades" was interesting tto me, as it is something I could easily relate to.  In some of my more challenging classes, for instance Linear Algebra 3, when I learned we had the opportunity to choose our own project from a selection of options, I was moreover interested in which project I thought would be the easiest to complete rather than looking at one that would be most interesting.  Obviously, this goes against what the intention of the project was and what I should have done.  Finding ways to balance orbits of planets using linear algebra techniques is __significantly__ more interesting than what we neded up doing in finding general equations for solving sums of higher powers.  Our group decided the grade was more important than expanding our knowledge of the subject, and part of this was driven by knowing we could get an easier A by doing so.
 
